@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋
 
 <!--
 **Angedu-gar3010/Angedu-gar3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Actualmente estoy estudiando la carrera de Ingeniería en Ciencias de la Computación y Tecnologías de la Información.
+
+Me encanta programar y aprender cosas nuevas para ayudar a otros con lo que hago.
+
+Tengo conocimientos en Python, JavaScript y HTML.
+
+Me encanta ayudar a los demás para aprender y seguir mejorando cada día.
